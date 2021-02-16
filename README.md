@@ -24,11 +24,14 @@ In any large dataset, it is challenging to make sure that data being pulled is s
   1. The three most succesful months for theater campaigns were started in May, June, and July.
   2. Both successful and failed campaigns seem to follow the same trend throughout the year except during the summertime when started campaigns saw best success.
   3. Campaigns launched at the end of the year did not have as much success as those that started in the first 3 quarters of the year.
+  
 **What can you conclude about the Outcomes based on Goals?**
   1. When drilling down to the plays only subcategory out of all the theater kickstarters, it is of note that none of the campaigns were canceled.
   2. The most successful campaigns had goals of less than $15,000 with the exception of goals from $35,000 to $45,000 which both had success rates of 67%. The general trend of the overal dataset for plays is a decreasing success rate as the goal increases.
+
 **What are some limitations of this dataset?**
   1. One major limitation of the dataset is that there are only a total of 158 total campaigns with goals greater than $10,000 and almost 900 projects less than $10,000. There is only one data point in the $45,000 to $49,000 goal range which is not statistically significant enough to make a decision on. Stories and trends change based off of how data is grouped. The amount of projects available for analysis above $10,000 are very little and not something I would feel comfortable comparing to.
+
 **What are some other possible tables and/or graphs that we could create?**
   1. Another important piece of the data could be the statistics behind each goal increment. Out of the total dataset, figure out how many outcomes are needed to be statistically significant and only include analysis on bins that had appropriate amount of projects in them. Decisions made on statistically insignificant data can be very risky. Instead of arbitrary $5,000 bins, let the statistics tell you what each bin size should consist of.
   2. I would also show percentage of success and failed campaigns by month. It is nice to see totals, but statistics can help make more concrete decisions if enough data is available.
