@@ -9,14 +9,16 @@ The purpose of this analysis is to provide a concise and straight forward visual
 Analysis was done on outcomes both based off launch date and fundraising goals. 
 ### Analysis of Outcomes Based on Launch Date
 To provide proper visualization for analyzing the outcomes of the theater kickstarters, a pivot table was designed to filter only results pertaining to theater and the year campaigns were created. Since campaigns varied over many different years, it was decided that the data would be easiest to analyze by arranging it to dial down to the specific month of the year it was launched to get an idea of how the time of each year a campaign was launched would impact the outcome. Outcomes were then filtered to only show campaigns that were either successful, failed, or were canceled. Campaigns that are currently live were not displayed. A pivot chart line graph was then created to visualize the results and is shown below.
+
 ![Theater_Outcomes_vs_Launch](https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 To provide succinct visualization of the outcomes based on campaign goals, a data table was created to breakdown the campaign goals into various increments of $5000 starting with $1000 and below all the way to greater than $50,000. For each incriment, the number of successful, failed, and canceled outcomes had to be determined only for plays by filtering the results based off of the goal increment, the specific outcome, and only play campaigns. Once this was completed, the total projects including each outcome was determined for each goal increment. Finally, the data were converted to figure out the percentages of each outcome relative to the total amount of projects for each goal increment and were then displayed on a line graph to show the outcomes based on goals as shown below.
+
 ![Outcomes_vs_Goals](https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-In any large dataset, it is challenging to make sure that data being pulled is staying consistent throughout all analysis. When using formulas in spreadsheets that pull from specific cells, it was important to lock in certain rows or columns that needed to stay the same when using the same formulas for other columns to make sure each was giving us the output I was looking for. In this process, I noticed I locked in the full cell in some of the formulas instead of just the column which caused some of the data to look off. Proper QAQC was performed on all references to make sure the correct data was being visualized.
+In any large dataset, it is challenging to make sure that data being pulled is staying consistent throughout all analysis. When using formulas in spreadsheets that pull from specific cells, it was important to lock in certain rows or columns that needed to stay the same when using the same formulas for other columns to make sure each was giving the correct output. In this process, I noticed I locked in the full cell in some of the formulas instead of just the column which caused some of the data to look off. Proper QAQC was performed on all references to make sure the correct data was being visualized before proceeding.
 
 ## Results
 
