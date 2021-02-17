@@ -4,9 +4,9 @@ Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 Louise's play *Fever* was very close to meeting its fundraising campaign goal in a short amount of time. Other plays had variable outcomes to meeting their fundraising goals relative to their launch dates. Louise is interested in finding out how her campaign compared to others in this regard.
 ### Purpose
-The purpose of this analysis is to provide a concise and straight forward visualization to Louise on campaign outcomes based on their launch dates and their funding goals to help her better understand her play fundraising campaign to others.
+The purpose of this analysis is to provide a concise and straight forward visualization to Louise on campaign outcomes based on their launch dates and their funding goals to help her better understand how her play fundraising campaign faired to others.
 ## Analysis and Challenges
-Analysis was done on outcomes both based off launch data and 
+Analysis was done on outcomes both based off launch date and fundraising goals. 
 ### Analysis of Outcomes Based on Launch Date
 To provide proper visualization for analyzing the outcomes of the theater kickstarters, a pivot table was designed to filter only results pertaining to theater and the year campaigns were created. Since campaigns varied over many different years, it was decided that the data would be easiest to analyze by arranging it to dial down to the specific month of the year it was launched to get an idea of how the time of each year a campaign was launched would impact the outcome. Outcomes were then filtered to only show campaigns that were either successful, failed, or were canceled. Campaigns that are currently live were not displayed. A pivot chart line graph was then created to visualize the results and is shown below.
 ![Theater_Outcomes_vs_Launch](https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
