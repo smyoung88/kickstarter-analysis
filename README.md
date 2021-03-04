@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 Louise's play *Fever* was very close to meeting its fundraising campaign goal in a short amount of time. Other plays had variable outcomes to meeting their fundraising goals relative to their launch dates. Louise is interested in finding out how her campaign compared to others in this regard.
 ### Purpose
-The purpose of this analysis is to provide a concise and straight forward visualization to Louise on campaign outcomes based on their launch dates and their funding goals to help her better understand how her play fundraising campaign faired to others.
+The purpose of this analysis is to provide a concise and straight forward visualization to Louise on campaign outcomes based on their launch dates and their funding goals to help her better understand how her play's fundraising campaign faired to others.
 ## Analysis and Challenges
 Analysis was done on outcomes both based off launch date and fundraising goals. 
 ### Analysis of Outcomes Based on Launch Date
