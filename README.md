@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns with Excel
-Performing analysis on Kickstarter data to uncover trends
+In this project, analysis was performed on Kickstarter data to uncover trends for Louise for better understanding.
 
 ## Overview of Project
 Louise's play *Fever* was very close to meeting its fundraising campaign goal in a short amount of time. Other plays had variable outcomes to meeting their fundraising goals relative to their launch dates. Louise is interested in finding out how her campaign compared to others in this regard.
