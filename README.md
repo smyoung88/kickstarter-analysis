@@ -36,7 +36,7 @@ In any large dataset, it is challenging to make sure that data being pulled is s
   2. Another limitation of the dataset is that although there are nine years worth of data, only four of the years have at least 30 kickstarters worth of data. The years and respective theater kickstarters are as follows:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Theater_Kickstarters_by_Year.png">
+  <img src="https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Theater_Kickstarters_by_Year.png">
 </p>
                            
   As seen, the most activity happened with theater kickstarters in 2014 through 2016.
