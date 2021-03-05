@@ -32,7 +32,8 @@ In any large dataset, it is challenging to make sure that data being pulled is s
   2. The most successful campaigns had goals of less than $15,000 with the exception of goals from $35,000 to $45,000 which both had success rates of 67%. The general trend of the overal dataset for plays is a decreasing success rate as the goal increases.
 
 **What are some limitations of this dataset?**
-  A major limitation of the dataset is that there are only a total of 158 total campaigns with goals greater than $10,000 and almost 900 projects less than $10,000. There is only one data point in the $45,000 to $49,000 goal range which is not statistically significant enough to make a decision on. Stories and trends change based off of how data is grouped. The amount of projects available for analysis above $10,000 are very little and not something I would feel comfortable comparing to.
+ 
+A major limitation of the dataset is that there are only a total of 158 total campaigns with goals greater than $10,000 and almost 900 projects less than $10,000. There is only one data point in the $45,000 to $49,000 goal range which is not statistically significant enough to make a decision on. Stories and trends change based off of how data is grouped. The amount of projects available for analysis above $10,000 are very little and not something I would feel comfortable comparing to.
 
 **What are some other possible tables and/or graphs that we could create?**
   1. Another important piece of the data could be the statistics behind each goal increment. Out of the total dataset, figure out how many outcomes are needed to be statistically significant and only include analysis on bins that had appropriate amount of projects in them. Decisions made on statistically insignificant data can be very risky. Instead of arbitrary $5,000 bins, let the statistics tell you what each bin size should consist of.
