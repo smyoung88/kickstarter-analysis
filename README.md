@@ -33,13 +33,13 @@ In any large dataset, it is challenging to make sure that data being pulled is s
 
 **What are some limitations of this dataset?**
   1. A major limitation of the dataset is that there are only a total of 158 total campaigns with goals greater than $10,000 and almost 900 projects less than $10,000. There is only one data point in the $45,000 to $49,000 goal range which is not statistically significant enough to make a decision on. Stories and trends change based off of how data is grouped. The amount of projects available for analysis above $10,000 are very little and not something I would feel comfortable comparing to.
-  2. Another limitation of the dataset is that although there are nine years worth of data, only four of the years have at least 30 kickstarters worth of data. The years and respective theater kickstarters are as follows:
+  2. Another limitation of the dataset is that although there are eight years worth of data, only four of the years have at least 30 kickstarters worth of data. The years and respective theater kickstarters are as follows:
 
 <p align="center">
   <img src="https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Theater_Kickstarters_by_Year.png">
 </p>
                            
-  As seen, the most activity happened with theater kickstarters in 2014 through 2016.
+  As seen, most activity happened with theater kickstarters in 2014 through 2016 and tapered off in 2017. A closer look at why 2014 through 2016 took off may be useful for Louise.
     
 
 **What are some other possible tables and/or graphs that we could create?**
